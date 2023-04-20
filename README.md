@@ -1,1 +1,1 @@
-# ILOVEPIZZA2
+Autotyper for edclub
